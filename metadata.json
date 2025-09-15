@@ -1,0 +1,5 @@
+{
+  "name": "SciELO JATS Converter AI",
+  "description": "An intelligent tool to transform scientific articles from DOCX to SciELO-compliant JATS XML using AI-powered content extraction. It automatically detects article structure, generates valid XML, and provides a quality assurance report.",
+  "requestFramePermissions": []
+}
